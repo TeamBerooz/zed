@@ -1,0 +1,12 @@
+SUDO_ID = {782187490,902464546,1180527087} --آیدی سودو های ربات (ربات cli , api  قرار بدید)
+Full_Sudo = {782187490} -- آیدی سودو اصلی
+TD_ID = 902464546 -- آیدی ربات
+Sudoid = 782187490 -- آیدی سودو اصلی
+BotHelper = 1180527087 -- آیدی هلپر
+UserBotHelper = '@SuperZedlink' -- یوزرنیم هلپر
+LinkSuppoRt = 'https://t.me/joinchat/RxCcqR1bnCqCRvSUODbzcQ' -- لینک گروه ساپورت
+UserSudo = '@BeroozTeam' -- یوزرنیم سازنده
+PvUserSudo = '@BeroozTeamSupportBot' -- پیام رسان سازنده
+Channel = '@BeroozTeam' -- یوزرنیم کانال 
+ChannelInline = 'BeroozTeam' --یوزنیم کانال بدون @
+token = '1180527087:AAFAg9AJFsSvAPk7gz4qfgue2vbH3MjAmhg' -- توکن ربات api
